@@ -1,8 +1,8 @@
 # 👁️ KADMON: The Sovereign Cyber-Intelligence Core
 
 <p align="center">
-  <img src="logo.png" alt="KADMON X Logo" width="400"/>
-</p>
+<img src="logo%20Kadmon%20X.png" alt="KADMON X Logo" width="400"/>
+
 
 [![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)](https://github.com/hackimghost/Kadmon)
 [![Security](https://img.shields.io/badge/Security-Offshore_Infrastructure-black?style=for-the-badge)](https://github.com/hackimghost/Kadmon)
