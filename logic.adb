@@ -1,1 +1,16 @@
 -- Código-fonte retido sob protocolo de Segurança Operacional (OPSEC).
+-- Código-fonte retido sob protocolo de Segurança Operacional (OPSEC).
+-- [ RESTRICTED ACCESS ] - Critical Infrastructure Logic
+-- [ RESTRICTED ACCESS ] - SCADA/ICS Override Protocols
+-- [ RESTRICTED ACCESS ] - SPARK High-Reliability Assurances
+-- [ RESTRICTED ACCESS ] - Fault-Tolerant Execution Paths
+-- [ RESTRICTED ACCESS ] - Industrial Controller Interception
+-- [ RESTRICTED ACCESS ] - Hardware-Level Operational Security
+-- [ RESTRICTED ACCESS ] - Real-Time Subsystem Disruption
+-- [ RESTRICTED ACCESS ] - Deep PLC Manipulation Vectors
+-- [ RESTRICTED ACCESS ] - Avionics and Telemetry Emulation
+-- [ RESTRICTED ACCESS ] - Zero-Defect Operational Memory
+-- [ RESTRICTED ACCESS ] - Strict Concurrency Threat Models
+-- [ RESTRICTED ACCESS ] - Physical Hardware Bypass Logic
+-- [ RESTRICTED ACCESS ] - State-Machine Mutation Mapping
+-- [ RESTRICTED ACCESS ] - Core Reactor Fail-Safe Disablement
